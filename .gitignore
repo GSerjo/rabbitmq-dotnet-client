@@ -1,0 +1,15 @@
+Out
+obj
+bin
+.idea
+_ReSharper*
+*.dotCover
+*.suo
+*.user
+*.Cache
+*.sln
+*.csproj
+*.cache
+*.ncrunchsolution
+*.ncrunchproject
+/packages/*/*
