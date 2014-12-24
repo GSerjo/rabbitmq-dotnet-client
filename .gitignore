@@ -8,6 +8,7 @@ _ReSharper*
 *.user
 *.Cache
 *.sln
+*.props
 *.csproj
 *.cache
 *.ncrunchsolution
